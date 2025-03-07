@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: 46e47f39fd3eabd4d954458656fb73e0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spin_Attack_Right_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76191c14a6fbd14f80abb2fe35610ad
+      internalID: 2037388325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76334d32ee8d2124db5ac6cc3e1ef4bc
+      internalID: -1473785185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 3
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56a377ea634ab44bafd9764602f265f
+      internalID: -1689053465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6667c0c0ec265a43a30545821088674
+      internalID: 1154224870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f488ac100bd37bd408114788a236b899
+      internalID: 158392833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093c88c9800e08d4b97d0b98703646e6
+      internalID: -2059080192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 3
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11e08e0ef2cfba47b440dd6c1eb57ae
+      internalID: -1292551218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 3
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00ed2b45fa71d5409f0a8165f58b7db
+      internalID: -824520071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc602f1b66d07604e9b918ab3e473028
+      internalID: -635568481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_9
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 3
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6973c78056fd67847a4e389f2aad7df4
+      internalID: 123360794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 4
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e363c072fc717c3468572dea25356d96
+      internalID: 503162213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 6
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e623955d2b0994294b0a5a43b13ddd
+      internalID: 2120642957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_12
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 6
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f8fb7f26737cb40bf8c698dd3d6da2
+      internalID: -1274416357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_13
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 6
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c9494e555a03c499d8cbad0b7a766e
+      internalID: -381326520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 6
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d6016854b322e4e83a1b02156cea95
+      internalID: -1374111016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_15
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 6
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6bb48bee20bd54886e7d96df443351
+      internalID: -1344107866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_16
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 6
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e26452ae8e9324c9bbf7972994242a
+      internalID: 596091875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_17
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 6
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d3603f4520c674d9588d9f648daa0f
+      internalID: -271819046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_18
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 6
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71562534a437587409ecc8ac0f096d6a
+      internalID: 646219305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_19
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 3
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373b6de99d506814d86bbcc15b89c232
+      internalID: 1485393738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_20
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 4
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef54334c7a8d61343ae1078e1f130b86
+      internalID: -141571225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_21
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 4
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d897bf8ec58679145b7c3114a8ab5be4
+      internalID: 1641213182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_22
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 4
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbfda90f25513b46ad1109851a53b67
+      internalID: -824394496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_23
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 4
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ca57403934fd343ac7f7b04dbda46b
+      internalID: 1365021949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_24
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 4
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ac17ec8073f3a4fa9e770268088a07
+      internalID: 1645227098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_25
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 4
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53cd9c1932b9394dab6f077c560abba
+      internalID: -1229887467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_26
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 4
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bc2823003c0c545bc31d05fe2bf109
+      internalID: 990264425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_27
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 7
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118d707d8223ee247bc83d35a45e7ac5
+      internalID: 1541758276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_28
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 7
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fcde87803414e418bd0794af1848e3
+      internalID: 846906241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_29
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 7
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5875d5ffa8fbd824980fb9ac57004c3a
+      internalID: 1028031739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_30
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 7
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1920261f410de4ab05f2905f21097c
+      internalID: -102124299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_31
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 7
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edba4da9b163bbf469bef59ca5f3177c
+      internalID: -1418362311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_32
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 7
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055dca052dcd2be4682e4ee5d6f9385c
+      internalID: -1564024127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_33
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 7
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f095f11c54b844ca3ea7a3ff0f18d9
+      internalID: -1681226111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_34
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 6
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7363db09ce647694897a9d4fc2fc76e2
+      internalID: 216052395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_35
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 7
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fc4e5508250684ebb5216207a62040
+      internalID: 630792806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_36
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 7
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a1dec4f53bca14db0329b0eb3d2fd3
+      internalID: -1633673329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_37
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 7
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347a14e918414ef4889e18c6dfbcd4ac
+      internalID: 1300609427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_38
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 7
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59ecef42c1bf6c4781c6927fec93b73
+      internalID: -555607688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_39
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 7
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870980ca264de514a9fbf5c6ea0b9999
+      internalID: 1672814630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_40
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 7
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374a3ad3f538d95478224c6e25b5e07e
+      internalID: 491572977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin_Attack_Right_41
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 7
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffd4e7254629454c9cc470e82d482bc
+      internalID: -422487696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spin_Attack_Right_0: 2037388325
+      Spin_Attack_Right_1: -1473785185
+      Spin_Attack_Right_10: 503162213
+      Spin_Attack_Right_11: 2120642957
+      Spin_Attack_Right_12: -1274416357
+      Spin_Attack_Right_13: -381326520
+      Spin_Attack_Right_14: -1374111016
+      Spin_Attack_Right_15: -1344107866
+      Spin_Attack_Right_16: 596091875
+      Spin_Attack_Right_17: -271819046
+      Spin_Attack_Right_18: 646219305
+      Spin_Attack_Right_19: 1485393738
+      Spin_Attack_Right_2: -1689053465
+      Spin_Attack_Right_20: -141571225
+      Spin_Attack_Right_21: 1641213182
+      Spin_Attack_Right_22: -824394496
+      Spin_Attack_Right_23: 1365021949
+      Spin_Attack_Right_24: 1645227098
+      Spin_Attack_Right_25: -1229887467
+      Spin_Attack_Right_26: 990264425
+      Spin_Attack_Right_27: 1541758276
+      Spin_Attack_Right_28: 846906241
+      Spin_Attack_Right_29: 1028031739
+      Spin_Attack_Right_3: 1154224870
+      Spin_Attack_Right_30: -102124299
+      Spin_Attack_Right_31: -1418362311
+      Spin_Attack_Right_32: -1564024127
+      Spin_Attack_Right_33: -1681226111
+      Spin_Attack_Right_34: 216052395
+      Spin_Attack_Right_35: 630792806
+      Spin_Attack_Right_36: -1633673329
+      Spin_Attack_Right_37: 1300609427
+      Spin_Attack_Right_38: -555607688
+      Spin_Attack_Right_39: 1672814630
+      Spin_Attack_Right_4: 158392833
+      Spin_Attack_Right_40: 491572977
+      Spin_Attack_Right_41: -422487696
+      Spin_Attack_Right_5: -2059080192
+      Spin_Attack_Right_6: -1292551218
+      Spin_Attack_Right_7: -824520071
+      Spin_Attack_Right_8: -635568481
+      Spin_Attack_Right_9: 123360794
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
